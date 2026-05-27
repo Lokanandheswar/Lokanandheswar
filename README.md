@@ -5,7 +5,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/Lokanandheswar?style=social)](https://github.com/Lokanandheswar)
   [![GitHub User's stars](https://img.shields.io/github/stars/Lokanandheswar?style=social)](https://github.com/Lokanandheswar)
   
-  **Full Stack Developer | Cloud Architect | Open Source Enthusiast**
+  **Python Developer | Embedded Systems Enthusiast | Learning & Growing**
   
 </div>
 
@@ -13,12 +13,12 @@
 
 ## 🚀 About Me
 
-I'm **Lokanandheswar**, a passionate full-stack developer with expertise in building scalable, efficient, and user-centric solutions. With a focus on clean code, system design, and continuous learning, I strive to contribute meaningfully to impactful projects and communities.
+I'm **Lokanandheswar**, a passionate developer with focus on Python development and embedded systems programming. I'm committed to continuous learning, building practical solutions, and improving my technical skills.
 
-- 💻 **Specialization:** Full-stack development, Cloud architecture, DevOps
-- 🎯 **Goal:** Building innovative solutions that solve real-world problems
-- 📚 **Philosophy:** Clean code, best practices, and knowledge sharing
-- 🌱 **Currently:** Exploring Web3, Kubernetes, and Advanced Cloud Architecture
+- 💻 **Current Focus:** Python development and Embedded C programming
+- 🎯 **Goal:** Build robust applications and explore embedded systems
+- 📚 **Philosophy:** Clean code, best practices, and continuous learning
+- 🌱 **Currently:** Expanding knowledge in Python frameworks and microcontroller programming
 
 ---
 
@@ -26,47 +26,18 @@ I'm **Lokanandheswar**, a passionate full-stack developer with expertise in buil
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### **Areas of Interest**
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-informational?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-informational?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-informational?style=for-the-badge)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-informational?style=for-the-badge)
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### **Databases & Storage**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### **Tools & Technologies**
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-informational?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
@@ -86,80 +57,76 @@ I'm **Lokanandheswar**, a passionate full-stack developer with expertise in buil
 
 ## 🎯 Featured Projects
 
-### 🔗 [Full Stack E-Commerce Platform](https://github.com/Lokanandheswar/ecommerce-platform)
-A comprehensive full-stack e-commerce solution with modern web technologies and cloud deployment.
-- **Tech Stack:** React, Node.js, MongoDB, Docker, AWS
+### 🔗 [Python Utilities Library](https://github.com/Lokanandheswar/python-utilities)
+A collection of useful Python utilities and helper functions for common programming tasks.
+- **Tech Stack:** Python
 - **Highlights:** 
-  - JWT authentication & authorization
-  - Real-time inventory management
-  - Payment gateway integration
-  - Responsive design with Tailwind CSS
-  - CI/CD pipeline with GitHub Actions
+  - Data structure implementations
+  - Algorithm solutions
+  - Practical problem-solving examples
+  - Well-documented code
 
-### 🔗 [AI-Powered Task Management System](https://github.com/Lokanandheswar/task-manager-ai)
-Intelligent task management application with AI recommendations and real-time collaboration.
-- **Tech Stack:** TypeScript, Next.js, FastAPI, PostgreSQL, Redis
+### 🔗 [Embedded C Microcontroller Project](https://github.com/Lokanandheswar/embedded-systems)
+Embedded systems project demonstrating core concepts and microcontroller programming.
+- **Tech Stack:** Embedded C, Microcontrollers
 - **Highlights:**
-  - Machine learning task prioritization
-  - Real-time websocket updates
-  - Advanced database optimization
-  - Microservices architecture
-  - Comprehensive test coverage
+  - Hardware interfacing
+  - Low-level programming
+  - Sensor integration
+  - Real-time processing
 
-### 🔗 [Cloud Native DevOps Dashboard](https://github.com/Lokanandheswar/devops-dashboard)
-Enterprise-grade monitoring and deployment dashboard for cloud infrastructure.
-- **Tech Stack:** Vue.js, Django, Kubernetes, Docker, AWS
+### 🔗 [Learning Projects](https://github.com/Lokanandheswar/learning-journey)
+Collection of learning projects showcasing growth and exploration.
+- **Tech Stack:** Python, C
 - **Highlights:**
-  - Multi-cloud support
-  - Real-time monitoring & alerts
-  - Infrastructure as Code (Terraform)
-  - Automated deployments
-  - Scalable architecture
+  - Practice problems
+  - Coding challenges
+  - Experimental projects
+  - Clean code practices
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Milestones
 
-- 🥇 **AWS Certified Solutions Architect** - Associate level
-- 📜 **Docker Certified Associate** - Container expertise
-- 🎓 **Full-Stack Development** - Proven expertise across entire development stack
-- ⭐ **Open Source Contributor** - Active contributor to multiple projects
-- 🌟 **GitHub Contributor** - Consistent contributor with significant contributions
-- 💡 **Problem Solver** - Expert in system design and optimization
+- 🥇 **Active Learner** - Committed to continuous improvement
+- 📜 **Problem Solver** - Tackling coding challenges and algorithms
+- 🎓 **Developer** - Building projects and gaining hands-on experience
+- ⭐ **GitHub Contributor** - Active on GitHub with personal projects
+- 💡 **Embedded Systems Enthusiast** - Exploring microcontroller programming
 
 ---
 
-## 📚 Current Learning & Interests
+## 📚 Learning & Interests
 
 **Currently Learning:**
-- 🔹 Kubernetes & Container Orchestration
-- 🔹 Machine Learning & AI Integration
-- 🔹 Advanced AWS Services (Lambda, ECS, AppSync)
-- 🔹 Web3 & Blockchain Development
+- 🔹 Advanced Python concepts and libraries
+- 🔹 Embedded C programming best practices
+- 🔹 Data structures and algorithms
+- 🔹 Microcontroller applications
 
 **Passionate About:**
-- 🚀 Building scalable microservices
-- 📖 Technical writing & documentation
-- 🤝 Mentoring junior developers
-- 🌐 Open-source contributions
-- 💻 System design & architecture
+- 🚀 Problem solving through code
+- 📖 Learning new technologies
+- 🤝 Sharing knowledge and helping others
+- 💻 Building practical solutions
+- 🔧 Exploring embedded systems
 
-**Exploring:**
-- ⚡ Serverless architecture
-- 🔐 Security best practices
-- 📊 Data engineering
-- 🎮 Game development with modern frameworks
+**Future Goals:**
+- ⚡ Master Python development
+- 🔐 Deepen embedded systems knowledge
+- 📊 Learn web development frameworks
+- 🎮 Explore IoT projects
 
 ---
 
 ## 📈 Recent Activity
 
-- 🎉 Contributing to open-source projects on GitHub
-- 💡 Building innovative solutions with cutting-edge technologies
-- 📖 Writing technical articles and documentation
-- 🚀 Exploring and implementing new frameworks and tools
-- 🔧 Optimizing cloud infrastructure for performance
-- 📚 Continuously learning and improving skills
+- 🎉 Working on Python practice projects
+- 💡 Exploring embedded systems concepts
+- 📖 Learning algorithms and data structures
+- 🚀 Building and contributing to personal projects
+- 🔧 Improving coding skills through practice
+- 📚 Continuous learning and development
 
 ---
 
@@ -171,23 +138,23 @@ Enterprise-grade monitoring and deployment dashboard for cloud infrastructure.
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lokanandheswar)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokanandheswar@example.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lokanandheswar-portfolio.com)
-  [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lokanandheswar)
   
   📧 **Email:** lokanandheswar@example.com
   
-  💼 **Open to:** Full-time opportunities, freelance projects, collaborations
+  💼 **Open to:** Learning opportunities, collaborations, internships
   
 </div>
 
 ---
 
-## 🎓 Experience Highlights
+## 🎓 Current Journey
 
-| Role | Company | Duration | Tech Stack |
-|------|---------|----------|-----------|
-| **Senior Full Stack Developer** | Tech Company | 2023 - Present | React, Node.js, AWS |
-| **Full Stack Developer** | Startup | 2021 - 2023 | Vue.js, Django, Docker |
-| **Junior Developer** | Tech Firm | 2020 - 2021 | JavaScript, Python, SQL |
+I'm on a continuous learning journey, building my skills in:
+- **Python Programming** - From basics to practical applications
+- **Embedded Systems** - Microcontroller programming and hardware interfacing
+- **Problem Solving** - Algorithms, data structures, and coding challenges
+
+Every project is a step forward in my development journey! 🚀
 
 ---
 
@@ -201,6 +168,6 @@ Enterprise-grade monitoring and deployment dashboard for cloud infrastructure.
   
   *Last updated: May 2026*
   
-  *"Code is poetry, innovation is art"* ✨
+  *"Learning today, innovating tomorrow"* ✨
   
 </div>
