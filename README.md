@@ -4,8 +4,7 @@
 
 I am an engineering graduate passionate about software development, Python programming, and building practical applications.
 
-I enjoy learning new technologies, solving programming problems, and developing projects using Python and MySQL.
-
+I enjoy learning new technologies, solving programming problems, and developing real-world applications.
 
 ---
 
@@ -43,9 +42,9 @@ I enjoy learning new technologies, solving programming problems, and developing 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
-### 1. Employee Task Tracking System
+### 1. Employee Task Management System
 
 A Python and MySQL-based application designed to manage employees and track their assigned tasks.
 
@@ -61,21 +60,47 @@ A Python and MySQL-based application designed to manage employees and track thei
 
 **Technologies:** Python, MySQL, mysql-connector-python
 
-🔗 [View Project](https://github.com/Lokanandheswar/Employee-Task-Tracking-System)
+🔗 **Repository:** [Employee Task Management](https://github.com/Lokanandheswar/Employee_Task_Management)
+
+---
+
+### 2. Shopping Mart Mini Project
+
+A menu-driven shopping application developed using Python. It provides separate Admin and User modules to manage products and perform shopping operations.
+
+**Admin Features:**
+- Add Products
+- Update Product Details
+- Remove Products
+- View Available Products
+- View Registered Users
+
+**User Features:**
+- User Registration
+- View Available Products
+- Add Products to Cart
+- Remove Products from Cart
+- View Shopping Cart
+- Calculate Total Amount
+- Checkout and Place Orders
+
+**Technologies:** Python, Lists, Loops, Conditional Statements
+
+🔗 **Repository:** [Shopping Mart Mini Project](https://github.com/Lokanandheswar/Shopping_Mart-Mini-Project)
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokanandheswar&show_icons=true&hide_border=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Lokanandheswar&theme=default&hide_border=true)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokanandheswar&layout=compact&hide_border=true&theme=default)
 
 ---
 
@@ -93,8 +118,8 @@ A Python and MySQL-based application designed to manage employees and track thei
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokanandheswar)
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+⭐ Thanks for visiting my GitHub profile!
