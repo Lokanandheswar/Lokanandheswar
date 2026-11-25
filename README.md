@@ -61,7 +61,7 @@ A Python and MySQL-based application designed to manage employees and track thei
 
 **Technologies:** Python, MySQL, mysql-connector-python
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/Employee-Task-Tracking-System)
+🔗 [View Project](https://github.com/Lokanandheswar/Employee-Task-Tracking-System)
 
 ---
 
