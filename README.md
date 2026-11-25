@@ -6,6 +6,7 @@ I am an engineering graduate passionate about software development, Python progr
 
 I enjoy learning new technologies, solving programming problems, and developing projects using Python and MySQL.
 
+
 ---
 
 ## 👨‍💻 About Me
